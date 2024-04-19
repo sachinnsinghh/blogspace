@@ -1,5 +1,6 @@
 # Ignore specific files and directories
-
+.env
+.toml
 # Ignore the backend configuration files
 backend/wrangler.toml
 backend/.env
