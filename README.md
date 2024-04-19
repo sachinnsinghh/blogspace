@@ -1,7 +1,7 @@
-#BlogSpace
+BlogSpace
 Welcome to BlogSpace! This project is a full-stack web application built with React in the front end and Cloudflare Workers in the back end, using a variety of technologies and tools to provide a secure and efficient user experience.
 
-#Technologies Used
+Technologies Used
 Frontend:
 React: A popular JavaScript library for building user interfaces.
 TypeScript: A statically typed superset of JavaScript, enhancing code quality and development experience.
