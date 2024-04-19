@@ -16,28 +16,7 @@ Features
 Authentication:
 Utilizes JWT for secure authentication and authorization of users.
 Data Validation:
-Implements Zod for frontend data validation, ensuring data integrity and reliability.
+Implements Zod for front-end data validation, ensuring data integrity and reliability.
 Database Management:
 Prisma ORM with connection pooling for efficient database interactions with PostgreSQL.
-Getting Started
-To run this project locally, follow these steps:
 
-Clone the Repository:
-bash
-Copy code
-
-Install Dependencies:
-bash
-Copy code
-cd project-name
-npm install
-Set Up Environment Variables:
-Create a .env file in the root directory based on the provided .env.example file.
-Add necessary environment variables (e.g., database connection URL, JWT secret).
-Run the Frontend:
-bash
-Copy code
-npm run dev
-Deploy Backend to Cloudflare Workers:
-Ensure you have the Cloudflare Workers CLI installed (npm install -g @cloudflare/wrangler).
-Configure wrangler.toml with your Cloudflare account details.
